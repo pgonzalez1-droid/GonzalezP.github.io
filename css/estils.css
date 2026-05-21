@@ -192,13 +192,7 @@ article img {
 }
 
 article.sobre-mi .fila {
-  align-items: flex-start;
-}
-
-article.sobre-mi .columna {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
+  align-items: center;
 }
 
 article.sobre-mi .columna h3 {
